@@ -18,6 +18,10 @@
   text-align: center;
 }
 
+.formInput {
+  text-align: center;
+}
+
 .romanNumeral {
   width: 100%;
   font-size: 3rem;
