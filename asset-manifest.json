@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/convert-to-roman/static/css/main.d89d322a.chunk.css",
+    "main.js": "/convert-to-roman/static/js/main.9fd487ad.chunk.js",
+    "main.js.map": "/convert-to-roman/static/js/main.9fd487ad.chunk.js.map",
+    "runtime-main.js": "/convert-to-roman/static/js/runtime-main.77b46408.js",
+    "runtime-main.js.map": "/convert-to-roman/static/js/runtime-main.77b46408.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/convert-to-roman/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.464389fb.chunk.js": "/convert-to-roman/static/js/2.464389fb.chunk.js",
+    "static/js/2.464389fb.chunk.js.map": "/convert-to-roman/static/js/2.464389fb.chunk.js.map",
+    "index.html": "/convert-to-roman/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/convert-to-roman/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.d89d322a.chunk.css.map": "/convert-to-roman/static/css/main.d89d322a.chunk.css.map",
+    "static/js/2.464389fb.chunk.js.LICENSE.txt": "/convert-to-roman/static/js/2.464389fb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.77b46408.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.464389fb.chunk.js",
+    "static/css/main.d89d322a.chunk.css",
+    "static/js/main.9fd487ad.chunk.js"
+  ]
+}
